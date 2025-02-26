@@ -1,7 +1,7 @@
 # Amigo-secreto
-Aplicación web que nos permite ingresar una seria cantidad de nombres y nos da la opción de seleccionar uno al azar  
 
-- Estado del proyect en ejecución
+Aplicación web que nos permite ingresar una cantidad de nombres y nos da la opción de seleccionar uno al azar, con el objetivo se obtener el nombre de nuestro amigo secreto
+
 
   
 
